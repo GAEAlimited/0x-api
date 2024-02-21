@@ -126,7 +126,7 @@
         "@sentry/node": "^7.14.0",
         "@sentry/tracing": "^7.14.0",
         "aws-sdk": "^2.908.0",
-        "axios": "^0.21.1",
+        "axios": "^0.28.0",
         "balancer-labs-sor-v1": "npm:@balancer-labs/sor@0.3.2",
         "delay": "^4.4.0",
         "dotenv": "^8.1.0",
