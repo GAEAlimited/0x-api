@@ -1,6 +1,6 @@
 name: Docker On Demand
 
-on:
+on: 
   workflow_dispatch:
     inputs:
 
